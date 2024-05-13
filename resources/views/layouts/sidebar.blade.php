@@ -11,14 +11,16 @@
                 </li>
                 <li>
                     <a href="{{ route('dashboard') }}" class="waves-effect">
-                        <i class="bx bx-home-circle"></i>
+                        <i class="bx bx-user-voice"></i>
+                        <span key="t-dashboards">User</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ route('barang.index') }}" class="waves-effect">
+                        <i class="bx bx-customize"></i>
                         <span key="t-dashboards">Data Barang</span>
                     </a>
                 </li>
-
-
-
-
             </ul>
         </div>
     </div>
