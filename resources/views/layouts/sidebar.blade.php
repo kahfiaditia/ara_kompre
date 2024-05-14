@@ -10,7 +10,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="{{ route('dashboard') }}" class="waves-effect">
+                    <a href="{{ route('user.index') }}" class="waves-effect">
                         <i class="bx bx-user-voice"></i>
                         <span key="t-dashboards">User</span>
                     </a>

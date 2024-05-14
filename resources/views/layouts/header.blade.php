@@ -25,7 +25,7 @@
                 <form method="GET" action="">
                     @csrf
                     <button class="btn header-item waves-effect">
-                        <span class="d-none d-xl-inline-block ms-1" key="t-henry">gggg</span>
+                        <span class="d-none d-xl-inline-block ms-1" key="t-henry">Administrator</span>
                     </button>
                 </form>
             </div>
